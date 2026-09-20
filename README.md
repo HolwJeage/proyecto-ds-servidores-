@@ -8,4 +8,4 @@ Proyecto final de Ciencia de Datos enfocado en la infraestructura de TI. El obje
 - **Módulo 2:** Análisis estadístico descriptivo e identificación de dispersión mediante diagramas de caja.
 - **Módulo 3:** Modelo de Regresión Logística y visualización de coeficientes e importancia de métricas.
 
-## Video de Presentación
+## Video de Presentación https://youtu.be/Ha7J-fp8rzk
